@@ -1,7 +1,7 @@
 # Hi There 👋
 
 <p>I'm Afif from Indonesian, undergraduate information system student at Telkom University Bandung who has an interest in web development. Mastering front-end development using React, and Vue besides mastering backend development using Node, Express, and Laravel. Able to use relational databases Mysql and non-relational databases such as MongoDB.</p>
-
+<hr>
 ###
 
 <h3>👤 About Me</h3>
@@ -19,6 +19,7 @@
 
 ###
 
+<h3>👨‍💻 My Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35"  alt="typescript logo"  />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="35"  alt="javascript logo"  />
