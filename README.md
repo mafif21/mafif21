@@ -4,7 +4,10 @@
 
 ###
 
-<h3>👤 About Me</h3>
+<h3 align="left">👤 About Me</h3>
+
+###
+
 <p align="left">📚 I'm currently learning Backend and IOS Development<br>🎯 Goals: Fullstack Devs <br>💬 Ask me about: Frontend Devs <br> 📫 How to reach me: afif.maliki21@gmail.com </p>
 
 ###
