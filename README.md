@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙌, I'm Afif</h1>
-<h3 align="center">Undergraduate information system student at Telkom University Bandung who has an interest in web development. Mastering front-end development using React, and Vue besides mastering backend development using Node, Express, and Laravel. Able to use relational databases Mysql and non-relational databases such as MongoDB. Adaptive and interested in new things and able to work in a team.</h3>
+<p align="center">Undergraduate information system student at Telkom University who has an interest in Web Development and IOS Development</p>
 
 - 🌱 I’m currently learning **IOS Development, Typescript**
 
