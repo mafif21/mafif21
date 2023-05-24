@@ -1,13 +1,15 @@
 # Hi There 👋
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <p>I'm Afif from Indonesian, undergraduate information system student at Telkom University Bandung who has an interest in web development. Mastering front-end development using React, and Vue besides mastering backend development using Node, Express, and Laravel. Able to use relational databases Mysql and non-relational databases such as MongoDB.</p>
 <hr>
+
 ###
 
 <h3>👤 About Me</h3>
 <p align="left">📚 I'm currently learning Backend and IOS Development<br>🎯 Goals: Fullstack Devs <br>💬 Ask me about: Frontend Devs <br> 📫 How to reach me: afif.maliki21@gmail.com </p>
-
-###
+<hr>
 
 ###
 
@@ -15,7 +17,7 @@
 
 ![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafif21&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-###
+<hr>
 
 ###
 
@@ -29,13 +31,4 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="35"  alt="express logo"  />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="35"  alt="node logo"  />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35"  alt="mongo logo"  />
-
 </div>
-
-###
-
-<!-- ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-### -->
