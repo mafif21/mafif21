@@ -1,8 +1,10 @@
 # Hi There 👋
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div>
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <p align="left">I'm Afif from Indonesian, undergraduate information system student at Telkom University Bandung who has an interest in web development. Mastering front-end development using React, and Vue besides mastering backend development using Node, Express, and Laravel. Able to use relational databases Mysql and non-relational databases such as MongoDB.</p>
+</div>
 
-<p>I'm Afif from Indonesian, undergraduate information system student at Telkom University Bandung who has an interest in web development. Mastering front-end development using React, and Vue besides mastering backend development using Node, Express, and Laravel. Able to use relational databases Mysql and non-relational databases such as MongoDB.</p>
 <hr>
 
 ###
