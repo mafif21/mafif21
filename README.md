@@ -12,14 +12,6 @@
 
 ###
 
-<h3>📊 GitHub Stats</h3>
-
-![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafif21&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-<hr>
-
-###
-
 <h3>👨‍💻 My Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35"  alt="mongo logo"  />
